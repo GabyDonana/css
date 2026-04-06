@@ -1,0 +1,80 @@
+body{
+    background-color: pink;
+}
+
+header{
+    justify-self: center;
+    text-align: center;
+    background-color: rgb(211, 111, 144);
+    border-radius: 50px;
+    width: 80%;
+    padding: 15px;
+}
+
+nav{
+    justify-self: center;
+    text-align: center;
+    background-color:rgb(231, 141, 171);
+    border-radius: 30px;
+    width: 90%;
+    padding: 15px;
+}
+
+main{
+    background-color:rgb(231, 141, 171);
+    border-radius: 15px;
+    padding: 15px;
+    width: 50%;
+    justify-self: center;
+}
+
+
+a{
+    color: black;
+    
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.main-galeria{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+input{
+    width: 100%;
+    margin-top: 15px;
+    padding: 8px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+button{
+    width: 100%;
+    margin-top: 15px;
+    padding: 8 px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+footer{
+    justify-self: center;
+}
